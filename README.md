@@ -1,0 +1,2 @@
+𝒜 𝒻𝒶𝓈𝓉 𝒾𝓂𝓅𝓁𝑒𝓂𝑒𝓃𝓉𝒶𝓉𝒾𝑜𝓃 𝑜𝒻 𝓇𝒶𝓃𝒹𝑜𝓂 𝒻𝑜𝓇𝑒𝓈𝓉𝓈 𝒶𝓈 𝒹𝑒𝓈𝒸𝓇𝒾𝒷𝑒𝒹 𝒾𝓃 `Leo Breiman. Random Forests. Machine Learning 45(1):5-32, 2001`.
+ - *[`libnd.hpp`](https://github.com/pmfs1/libnd) is a header-only library for working with n-dimensional arrays and views. It is a required dependency for `librf.hpp`.*
